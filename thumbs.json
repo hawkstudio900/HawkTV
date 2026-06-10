@@ -2,5 +2,9 @@
   {
     "id": "v1",
     "thumb": "thumbs/vid1.jpeg"
+  },
+  {
+    "id": "v2",
+    "thumb": "thumbs/seanpaul2.jpeg"
   }
 ]
